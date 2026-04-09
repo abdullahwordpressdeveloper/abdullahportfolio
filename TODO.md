@@ -1,0 +1,1 @@
+# Task: Fix Profile Image Path\n\n## Steps:\n1. [x] Moved image to public/images/abdullah-ashfaq.jpg\n2. [x] Updated src/data/portfolio.json profileImage to \"/images/abdullah-ashfaq.jpg\"\n3. [x] Fixed JSON syntax\n4. [ ] Run `npm run dev` and verify image at #about\n5. [ ] Complete
