@@ -4,9 +4,9 @@ import AboutSection from "@/components/AboutSection";
 import ServicesGridSection from "@/components/ServicesGridSection";
 import BenefitsGridSection from "@/components/BenefitsGridSection";
 import ProcessWorkflowSection from "@/components/ProcessWorkflowSection";
-import PortfolioSection from "@/components/PortfolioSection";
 import TestimonialsGridSection from "@/components/TestimonialsGridSection";
 import FooterCTASection from "@/components/FooterCTASection";
+import PortfolioSection from "@/components/PortfolioSection";
 
 export default function Home() {
   return (

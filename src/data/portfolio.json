@@ -19,13 +19,34 @@
       }
     ],
     "navLinks": [
-      { "name": "Home", "href": "#home" },
-      { "name": "About", "href": "#about" },
-      { "name": "Services", "href": "#services" },
-      { "name": "Process", "href": "#process" },
-      { "name": "Work", "href": "#work" },
-      { "name": "Testimonials", "href": "#testimonials" },
-      { "name": "Contact", "href": "#contact" }
+      {
+        "name": "Home",
+        "href": "#home"
+      },
+      {
+        "name": "About",
+        "href": "#about"
+      },
+      {
+        "name": "Services",
+        "href": "#services"
+      },
+      {
+        "name": "Process",
+        "href": "#process"
+      },
+      {
+        "name": "Work",
+        "href": "#work"
+      },
+      {
+        "name": "Testimonials",
+        "href": "#testimonials"
+      },
+      {
+        "name": "Contact",
+        "href": "#contact"
+      }
     ]
   },
   "hero": {
@@ -80,7 +101,7 @@
         "label": "Satisfaction"
       }
     ],
-    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=700&fit=crop",
+    "profileImage": "/images/abdullah-ashfaq.jpg",
     "alt": "abdullah - Designer"
   },
   "services": [
@@ -254,19 +275,52 @@
     "brand": "M.Abdullah",
     "description": "A Gen Alpha designer creating unforgettable brand experiences with clean, effective visuals.",
     "navigation": [
-      { "name": "Home", "href": "#" },
-      { "name": "About", "href": "#" },
-      { "name": "Work", "href": "#" },
-      { "name": "Process", "href": "#" },
-      { "name": "Contact", "href": "#" }
+      {
+        "name": "Home",
+        "href": "#"
+      },
+      {
+        "name": "About",
+        "href": "#"
+      },
+      {
+        "name": "Work",
+        "href": "#"
+      },
+      {
+        "name": "Process",
+        "href": "#"
+      },
+      {
+        "name": "Contact",
+        "href": "#"
+      }
     ],
     "services": [
-      { "name": "Logo Design", "href": "#" },
-      { "name": "Banner Design", "href": "#" },
-      { "name": "Thumbnail Design", "href": "#" },
-      { "name": "Print Design", "href": "#" },
-      { "name": "Gig Design", "href": "#" },
-      { "name": "Social Media Post Design", "href": "#" }
+      {
+        "name": "Logo Design",
+        "href": "#"
+      },
+      {
+        "name": "Banner Design",
+        "href": "#"
+      },
+      {
+        "name": "Thumbnail Design",
+        "href": "#"
+      },
+      {
+        "name": "Print Design",
+        "href": "#"
+      },
+      {
+        "name": "Gig Design",
+        "href": "#"
+      },
+      {
+        "name": "Social Media Post Design",
+        "href": "#"
+      }
     ],
     "contact": {
       "email": "contact@mabdullah.design",
